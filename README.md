@@ -14,7 +14,7 @@ The Train and Test Datasets should be extracted and be present in the root folde
 
 There are a number of parameters and options that can be decided on by the user through the GUI:
  - Number of Stages in CNN (up to 4)
-  -- The filter number and filter size for each stage
+  * The filter number and filter size for each stage
  - Convolution Layer Stride and Pooling Layer Stride
  - Pooling Function (Maximum, Average)
  - Number of training epochs
